@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" standalone="yes"?>
+<DataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="Result" msdata:Locale="">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Result" msdata:Locale="">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="Customer_Number" type="xs:string" minOccurs="0" />
+                <xs:element name="Customer_Name" type="xs:string" minOccurs="0" />
+                <xs:element name="Qty" type="xs:decimal" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Result>
+    <Customer_Number>01454545</Customer_Number>
+    <Customer_Name>New Concepts Furniture</Customer_Name>
+    <Qty>6</Qty>
+  </Result>
+  <Result>
+    <Customer_Number>10000</Customer_Number>
+    <Customer_Name>The Cannon Group PLC</Customer_Name>
+    <Qty>25</Qty>
+  </Result>
+  <Result>
+    <Customer_Number>20000</Customer_Number>
+    <Customer_Name>Selangorian Ltd.</Customer_Name>
+    <Qty>156</Qty>
+  </Result>
+  <Result>
+    <Customer_Number>30000</Customer_Number>
+    <Customer_Name>John Haddock Insurance Co.</Customer_Name>
+    <Qty>61</Qty>
+  </Result>
+  <Result>
+    <Customer_Number>31987987</Customer_Number>
+    <Customer_Name>Candoxy Nederland BV</Customer_Name>
+    <Qty>18</Qty>
+  </Result>
+  <Result>
+    <Customer_Number>32789456</Customer_Number>
+    <Customer_Name>Lovaina Contractors</Customer_Name>
+    <Qty>4</Qty>
+  </Result>
+  <Result>
+    <Customer_Number>38128456</Customer_Number>
+    <Customer_Name>MEMA Ljubljana d.o.o.</Customer_Name>
+    <Qty>59</Qty>
+  </Result>
+  <Result>
+    <Customer_Number>40000</Customer_Number>
+    <Customer_Name>Deerfield Graphics Company</Customer_Name>
+    <Qty>58</Qty>
+  </Result>
+  <Result>
+    <Customer_Number>43687129</Customer_Number>
+    <Customer_Name>Designstudio Gmunden</Customer_Name>
+    <Qty>75</Qty>
+  </Result>
+  <Result>
+    <Customer_Number>46897889</Customer_Number>
+    <Customer_Name>Englunds Kontorsmöbler AB</Customer_Name>
+    <Qty>5</Qty>
+  </Result>
+  <Result>
+    <Customer_Number>47563218</Customer_Number>
+    <Customer_Name>Klubben</Customer_Name>
+    <Qty>1</Qty>
+  </Result>
+  <Result>
+    <Customer_Number>49525252</Customer_Number>
+    <Customer_Name>Beef House</Customer_Name>
+    <Qty>113</Qty>
+  </Result>
+  <Result>
+    <Customer_Number>49633663</Customer_Number>
+    <Customer_Name>Autohaus Mielberg KG</Customer_Name>
+    <Qty>161</Qty>
+  </Result>
+  <Result>
+    <Customer_Number>60000</Customer_Number>
+    <Customer_Name>Blanemark Hifi Shop</Customer_Name>
+    <Qty>138</Qty>
+  </Result>
+  <Result>
+    <Customer_Number>61000</Customer_Number>
+    <Customer_Name>Fairway Sound</Customer_Name>
+    <Qty>25</Qty>
+  </Result>
+  <Result>
+    <Customer_Number>62000</Customer_Number>
+    <Customer_Name>The Device Shop</Customer_Name>
+    <Qty>62</Qty>
+  </Result>
+</DataSet>
